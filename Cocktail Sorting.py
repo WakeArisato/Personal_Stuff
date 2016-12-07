@@ -21,3 +21,6 @@ def cocktailSort(A):
 cocktailSort(my_list)
 print(my_list)
 print(movements)
+
+#attempts
+#1:2392
